@@ -1,5 +1,5 @@
 # ESP32S3-Milisecond-Timer
-
+(Replace the hex in the code with a 125x125 hex image for a logo)
 Hardware Requirements: ESP32-S3 HDMI Timer
 This project uses an ESP32-S3 LCD driver board to output video signals via a TFP401 decoder to an HDMI-compatible display.
 
